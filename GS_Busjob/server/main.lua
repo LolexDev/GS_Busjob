@@ -14,7 +14,7 @@
 
 assert(GetCurrentResourceName() == "GS_Busjob", _U('license')) -- Ne diraj te // Do not touch¸
 
-RegisterNetEvent('GS_Atmrobbery:notUsingBlips', function ()
+RegisterNetEvent('GS_Busjob:notUsingBlips', function ()
     print(_U("noblips"))
 end)
 
