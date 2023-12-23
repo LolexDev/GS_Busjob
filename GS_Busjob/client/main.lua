@@ -40,7 +40,7 @@ if Config.KoristiBlipove == true then
       end
     end)
     else
-      TriggerServerEvent('GS_Atmrobbery:notUsingBlips')
+      TriggerServerEvent('GS_Busjob:notUsingBlips')
 end
 
 Citizen.CreateThread(function()
