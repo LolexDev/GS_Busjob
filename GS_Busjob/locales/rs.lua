@@ -1,0 +1,18 @@
+Locales['rs'] = {
+    ['cheat'] = "Nije lepo to raditi smiri se i nastavi igrati kao i svi drugi ljudi!",
+    ['noblips'] = "Ovoj skripti su iskljuceni blipovi u konfigu.Skripta ne koristi blipove!!",
+    ['license'] = "Skripta ne moze da radi ako nije pod imenom 'GS_Busjob' molim vas ne menjaj te ime inace nece raditi! Upozorenje od strane: lolexalt(Vlasnika Grove Scripts)",
+    ['bossnpctext'] = "Popricaj te sa sefom",
+    ['joineduty'] = "Usli ste na duznost",
+    ['dutyond'] = "Uspesno ste usli na duznost i dobili ste bus pod brojem : ",
+    ['dutytitle'] = "Duznost",
+    ['leaveduty'] = "Izadji sa duznosti",
+    ['leavedutyd'] = "Morate prvo otici na duznost",
+    ['joindutytitle'] = "Udjite na duznost",
+    ['leavedduty'] = "Izasli ste sa duznosti",
+    ['dutyleave'] = "Uspesno ste izasli sa duznosti!",
+    ['collect'] = "[E] Da pokupite ljude sa stanice",
+    ['collecting'] = "Putnici ulaze...",
+    ['succollected'] = "Putnici su usli idite na sledecu stanicu, zaradjeni novac %s$",
+    ['returned'] = "Uspesno ste vratili autobus",
+}

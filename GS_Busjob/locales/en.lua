@@ -1,0 +1,18 @@
+Locales['en'] = {
+    ['cheat'] = "It's not nice to cheat, Lolex caught you. If you were kicked out by mistake, I'm sorry!",
+    ['noblips'] = "This script has disabled blips in the configuration. The script does not use blips!!",
+    ['license'] = "The script can't work if it's not named 'GS_Busjob' please don't change that name or it won't work! Warning by: lolexalt(Owner of Grove Scripts)",
+    ['bossnpctext'] = "Talk with boss",
+    ['joineduty'] = "Joined duty",
+    ['dutyond'] = "You successfuly joined duty and got bus with number : ",
+    ['dutytitle'] = "Duty",
+    ['leaveduty'] = "Leave duty",
+    ['leavedutyd'] = "You need first to get on duty",
+    ['joindutytitle'] = "Join Duty",
+    ['leavedduty'] = "left Duty",
+    ['dutyleave'] = "You succesfully left duty!",
+    ['collect'] = "[E] To collect people from station",
+    ['collecting'] = "People entering...",
+    ['succollected'] = "People entered go on next station, earned cash %s$",
+    ['returned'] = "Successfully returned bus",
+}
