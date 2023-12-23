@@ -6,7 +6,7 @@ Config.DocumentItem = 'dokument' -- Stavite ime vaseg dokument itema za bus // C
 
 -- # Webhook Config
 Config.LogHeader = "GS BUSJOB » Logs"
-Config.Webhook = "https://discord.com/api/webhooks/1186672561145253888/7P7hHdY8BfNT8uLLvnbxPyxKGTVydeP7CKL25P8Jgam-m-SNlBtiOKiuXJUKkJDssjs0" -- Discord webhook
+Config.Webhook = "" -- Discord webhook
 -------------------------------------------------------
 
 Config.Boss = { 
